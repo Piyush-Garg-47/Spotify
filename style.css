@@ -67,6 +67,7 @@ nav ul li{
 
 #myprograss{
     width: 80vw;
+    cursor: pointer;
 }
 .songItemcontainer{
     margin-top:34px;
@@ -95,6 +96,7 @@ border-radius:34px ;
 .songinfo{
     position:absolute;
     left: 10vw;
+    font-family:'varela round',sans-serif;
 }
 .songinfo img{
     opacity:0;
